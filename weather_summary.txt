@@ -1,0 +1,9 @@
+📍 Weather Summary for Jajpur
+📅 2025-05-03 to 2025-07-03
+
+Average Temp: 31.01°C
+Max Temp: 41.10°C
+Min Temp: 24.20°C
+Std Dev: 2.03°C
+Trend: ➡️ Stable
+
