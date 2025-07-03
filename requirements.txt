@@ -1,0 +1,5 @@
+ttkbootstrap==1.10.1
+requests==2.31.0
+pandas==2.2.2
+python-dotenv==1.0.1
+matplotlib==3.8.4
