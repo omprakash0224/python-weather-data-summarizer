@@ -6,7 +6,7 @@ A modern Python GUI application to fetch, analyze, and visualize weather data fo
 
 - 🌍 Get accurate coordinates using OpenCage Geocoding API
 - ⛅ Fetch real-time weather data (temperature, humidity, wind speed, etc.) from Open-Meteo
-- 📊 Visualize temperature and humidity trends with interactive charts
+- 📊 Visualize temperature trends with interactive charts
 - 🧑‍💻 Beautiful GUI using `ttkbootstrap`
 - 💾 Save fetched weather data to a CSV file
 - 🛠️ Responsive error handling and validation
